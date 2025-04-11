@@ -71,8 +71,8 @@ my-app/
 
 ## 👨‍💻 Author
 
-Developed by **Doan Thuc**
-📧 danth2111@gmail.com
+Developed by **Doan Thuc**  
+📧 danth2111@gmail.com  
 GitHub: [github.com/NaanxD](https://github.com/NaanxD)
 
 ---
@@ -84,7 +84,3 @@ MIT License – for educational use only.
 ---
 
 © 2025 MealMaster. All rights reserved.
-
-```
-
-```
