@@ -7,7 +7,7 @@
 
 ## 🧩 Overview
 
-**MealMaster** is a mobile app built with React Native, designed for **restaurant owners** to manage customer orders in real-time.  
+**MealMaster** is a mobile app built with **React Native**, designed for **restaurant owners** to manage customer orders in real-time.  
 This project was developed as a **demo for academic purposes**, focusing on UI logic and order management flow **without backend APIs**.
 
 ---
@@ -37,37 +37,53 @@ This project was developed as a **demo for academic purposes**, focusing on UI l
 ## 📦 Getting Started
 
 ```bash
-git clone https://github.com/your-username/food-delivery-manager.git
-cd food-delivery-manager
+git clone https://github.com/NaanxD/my-app.git
+cd my-app
 npm install
 npx expo start
 ```
 
-Make sure you have the [Expo Go](https://expo.dev/client) app installed on your device to preview the app.
+After running the command, the Expo Developer Tools will open in your browser.
+You can run the app in one of the following ways:
+📱 Scan the QR code using the Expo Go app on your mobile device
+💻 Click “Run on Android device/emulator” (requires Android Studio)
+🖥️ Click “Run on iOS simulator” (macOS only, Xcode required)
 
 ---
 
 ## 📁 Project Structure
 
-```
-/assets         → Images, icons, etc
-/components     → Reusable UI components
-/screens        → Screen views (Orders, Detail, Edit, etc)
-/context        → Global state management using React Context
-/utils          → Helper functions
-/constants      → UI constants and status mappings
+```bash
+my-app/
+├── assets/        → Images, icons, etc.
+├── contexts/      → React Context for global state
+├── data/          → Static data (e.g., sample orders)
+├── screens/       → All screen views (Scheduled, Now, Confirmed, History, etc.)
+├── utils/         → Helper functions and constants
+├── App.tsx        → App root with navigation setup
+├── index.ts       → Entry point for the app
+├── app.json       → Expo project configuration
+├── tsconfig.json  → TypeScript configuration
 ```
 
 ---
 
 ## 👨‍💻 Author
 
-Developed by **Doan Thuc**  
-📧 danth2111@gmail.com  
-GitHub: [github.com/your-username](https://github.com/your-username)
+Developed by **Doan Thuc**
+📧 danth2111@gmail.com
+GitHub: [github.com/NaanxD](https://github.com/NaanxD)
 
 ---
 
 ## 🔖 License
 
 MIT License – for educational use only.
+
+---
+
+© 2025 MealMaster. All rights reserved.
+
+```
+
+```
