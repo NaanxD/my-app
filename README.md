@@ -45,9 +45,10 @@ npx expo start
 
 After running the command, the Expo Developer Tools will open in your browser.
 You can run the app in one of the following ways:
-📱 Scan the QR code using the Expo Go app on your mobile device
-💻 Click “Run on Android device/emulator” (requires Android Studio)
-🖥️ Click “Run on iOS simulator” (macOS only, Xcode required)
+
+- 📱 Scan the QR code using the Expo Go app on your mobile device
+- 💻 Click “Run on Android device/emulator” (requires Android Studio)
+- 🖥️ Click “Run on iOS simulator” (macOS only, Xcode required)
 
 ---
 
